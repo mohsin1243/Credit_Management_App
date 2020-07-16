@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Credit Management App</string>
+    <string name="enter_amount_to_send">Enter amount to send:</string>
+    <string name="e_mail">E-mail</string>
+    <string name="click_here_to_transfer_amount">Click here to Transfer amount</string>
+    <string name="name">name</string>
+    <string name="balance">Balance</string>
+    <string name="users">VIEW ALL USER</string>
+    <string name="description">Credit Management App!</string>
+</resources>
